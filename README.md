@@ -92,23 +92,14 @@
 ## :trophy: My Github Stats:
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravensoft128&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravensoft128&theme=material-palenight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Ravensoft128&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Ravensoft128&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=Ravensoft128&theme=material-palenight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Ravensoft128&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravensoft128&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravensoft128&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravensoft128&theme=material-palenight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravensoft128&theme=material-palenight" />
 </a>
 </div>
-
-
-
-
-
-
-
-
-
 
