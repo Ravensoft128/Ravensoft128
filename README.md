@@ -1,9 +1,9 @@
 ## Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ravensoft128.Ravensoft128)
-[![Github](https://img.shields.io/github/followers/Ravensoft128?label=Follow&style=social)](https://github.com/Ravensoft128)
+[![Github](https://img.shields.io/github/followers/Ravensoft128?label=Followers&logo=Github)](https://github.com/Ravensoft128)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85295120/144730654-dfebff3d-d234-4f17-ba90-97055b04f569.gif"/>
+  <img src="https://user-images.githubusercontent.com/85295120/144730654-dfebff3d-d234-4f17-ba90-97055b04f569.gif">
 </p>
 
 <div align="center">
